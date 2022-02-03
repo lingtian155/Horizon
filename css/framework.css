@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bg-dark {
+    background-color: rgb(40,40,40);
+}
+
+.full-width {
+    width: 100%;
+}
+
+.auto-height {
+    height: auto;
+}
