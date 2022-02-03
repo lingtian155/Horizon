@@ -21,3 +21,7 @@
 .font-color-white {
     color: white !important;
 }
+
+.top-bar ul li:hover {
+    background-color: rgba(107, 122, 147, 0.5);
+}
